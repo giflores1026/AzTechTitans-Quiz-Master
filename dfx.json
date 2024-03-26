@@ -2,7 +2,7 @@
     "canisters": {
         "Quiz_Master_AzTechTitans": {
             "frontend": {
-                "entrypoint": "src/public/home-page.html"
+                "entrypoint": "src/public/index.html"
             },
             "source": ["src"],
             "type": "assets"
